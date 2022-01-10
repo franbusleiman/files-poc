@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-public class SecondMain {
+public class Main {
 
     public static void main(String[] args) throws IOException {
 
